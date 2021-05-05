@@ -3,10 +3,10 @@ Unity code used for the article "The Art of Damping" at https://www.alexisbacot.
 
 It includes two scripts:
 - ToolDamper.cs: with all the damping functions
-- SampleDamper2DGraph.cs: Script fo the sample scene to control the goal with arrow key or mouse
+- SampleDamper2DGraph.cs: Script for the sample scene to control the goal with arrow key or mouse
 
 One scene:
-- SampleDamper2DGraph: Scene used to display two points goal & follower in red & blue
+- SampleDamper2DGraph: Scene used to display two goal & follower points in red & blue
 
 How to Use:
 - Download Unity 2019 LTS (it's free)
